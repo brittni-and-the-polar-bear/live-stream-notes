@@ -2,7 +2,7 @@
 layout: post
 author: brittniwatkins
 date: 2023-09-16 19:30:00 -0000
-title: "test, typeScript, and webpack (saturday, september 16, 2023)"
+title: "Test, TypeScript, and WebPack (Saturday, September 16, 2023)"
 tags:
   - TypeScript
   - WebPack

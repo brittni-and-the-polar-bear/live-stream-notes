@@ -7,7 +7,8 @@ notes about resources and music from <a href="https://www.twitch.tv/" target="_b
 # latest post
 
 {% for post in site.posts limit:1 %}
-  <h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
+  {%- assign title_display = post.title | downcase -%}
+  <h2><a href=".{{ post.url }}">{{ title_display }}</a></h2>
 {% endfor %}
 
 ----

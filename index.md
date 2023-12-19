@@ -1,6 +1,6 @@
 # twitch stream notes
 
-Notes about resources and music from Twitch streams by <a href="https://www.twitch.tv/brittniandthepolarbear" target="_blank" rel="noopener noreferrer">brittni and the polar bear</a>.
+notes about resources and music from <a href="https://www.twitch.tv/" target="_blank" rel="noopener noreferrer">twitch</a> streams by <a href="https://www.twitch.tv/brittniandthepolarbear" target="_blank" rel="noopener noreferrer">brittni and the polar bear</a>.
 
 ----
 

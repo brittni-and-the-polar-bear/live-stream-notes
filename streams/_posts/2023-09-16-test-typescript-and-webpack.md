@@ -2,7 +2,7 @@
 layout: post
 author: brittniwatkins
 date: 2023-09-16 19:30:00 -0000
-title: "Test, TypeScript, and WebPack"
+title: "test, typeScript, and webpack (saturday, september 16, 2023)"
 tags:
   - TypeScript
   - WebPack
@@ -22,6 +22,7 @@ tags:
   - [ ] test locally
   - [ ] deploy code to GitHub Pages
 
+----
 
 # Resources
 
@@ -41,6 +42,7 @@ tags:
   - <a href="https://rollupjs.org/tutorial/" target="_blank" rel="noopener noreferrer">Rollup Tutorial</a>
 - <a href="https://github.com/rollup/plugins/tree/master/packages/typescript" target="_blank" rel="noopener noreferrer">Typescript Package</a>
 
+----
 
 # Music
 

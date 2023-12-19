@@ -1,5 +1,7 @@
 # twitch stream notes
 
+----
+
 # latest post
 
 {% for post in site.posts limit:1 %}

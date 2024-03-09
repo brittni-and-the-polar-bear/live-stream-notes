@@ -7,7 +7,7 @@ tags:
   - TypeScript
   - WebPack
   - Rollup
-  - p5
+  - p5.js
 ---
 
 # Goals

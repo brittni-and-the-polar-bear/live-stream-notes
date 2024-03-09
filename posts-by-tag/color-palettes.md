@@ -1,4 +1,4 @@
-{%- assign tag_name = "p5" -%}
+{%- assign tag_name = "color palettes" -%}
 {%- assign tag_match = tag_name | downcase -%}
 
 <h1>Posts by Tag: {{ tag_name }}</h1>

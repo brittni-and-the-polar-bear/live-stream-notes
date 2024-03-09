@@ -13,6 +13,8 @@ tags:
 ---
 
 # Goals
+- [ ] put artist statement into azurepolarbear.github.io page
+- [ ] put mission statement into brittni and the polar bear page
 - [ ] update dependencies
 - [ ] choose random element from list (generic function)
 - [ ] choose random element from list with weights (generic function)
@@ -21,6 +23,7 @@ tags:
 - [ ] palette color selector
 - [ ] palette color selector factory
 - [ ] test palette selection in test project
+
 ----
 
 # Resources

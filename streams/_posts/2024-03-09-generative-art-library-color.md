@@ -13,9 +13,9 @@ tags:
 ---
 
 # Goals
-- [ ] put artist statement into azurepolarbear.github.io page
-- [ ] put mission statement into brittni and the polar bear page
-- [ ] update dependencies
+- [ ] ~~put artist statement into azurepolarbear.github.io page~~
+- [ ] ~~put mission statement into brittni and the polar bear page~~
+- [x] update dependencies
 - [ ] choose random element from list (generic function)
 - [ ] choose random element from list with weights (generic function)
 - [ ] create color palette with weighted colors
@@ -28,6 +28,9 @@ tags:
 
 # Resources
 
+# Markdown
+
+[GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 ----
 

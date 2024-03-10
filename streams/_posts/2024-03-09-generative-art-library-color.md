@@ -16,7 +16,7 @@ tags:
 - [ ] ~~put artist statement into azurepolarbear.github.io page~~
 - [ ] ~~put mission statement into brittni and the polar bear page~~
 - [x] update dependencies
-- [ ] choose random element from list (generic function)
+- [x] choose random element from list (generic function)
 - [ ] choose random element from list with weights (generic function)
 - [ ] create color palette with weighted colors
 - [ ] create new unweighted color palette

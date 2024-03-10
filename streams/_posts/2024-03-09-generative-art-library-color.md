@@ -13,16 +13,16 @@ tags:
 ---
 
 # Goals
-[ ] ~~put artist statement into azurepolarbear.github.io page~~
-[ ] ~~put mission statement into brittni and the polar bear page~~
-[x] update dependencies
-[x] choose random element from list (generic function)
-[x] choose random element from list with weights (generic function)
-[ ] create color palette with weighted colors
-[ ] create new unweighted color palette
-[ ] palette color selector
-[ ] palette color selector factory
-[ ] test palette selection in test project
+- [ ] ~~put artist statement into azurepolarbear.github.io page~~
+- [ ] ~~put mission statement into brittni and the polar bear page~~
+- [x] update dependencies
+- [x] choose random element from list (generic function)
+- [x] choose random element from list with weights (generic function)
+- [ ] create color palette with weighted colors
+- [ ] create new unweighted color palette
+- [ ] palette color selector
+- [ ] palette color selector factory
+- [ ] test palette selection in test project
 
 ----
 

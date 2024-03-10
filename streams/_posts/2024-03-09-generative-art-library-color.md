@@ -32,6 +32,8 @@ tags:
 
 [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
 
+[TypeScript Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html)
+
 ----
 
 # Music
